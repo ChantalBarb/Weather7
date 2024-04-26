@@ -61,17 +61,17 @@ main {
     display: flex;
 }
 .weather-app-icon {
-    font-size: 44px;
-    margin-top: 22px;
+    font-size: 88px;
+    margin-top: 88px;
 }
 .weather-app-temperature{
     font-size: 88px;
-    margin-left: 10px;
+    line-height: 88px;
     font-weight: bold;
 }
 .weather-app-unit{
-margin-top: 16px;
-font-size: 28px; 
+    margin-top: 16px;
+    font-size: 28px; 
 }
 footer {
     border-top: 1px solid #f9f7fe;
