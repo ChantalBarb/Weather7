@@ -74,9 +74,9 @@ main {
     font-size: 28px; 
 }
 .weather-forecast{
+    display: flex;
     margin-top: 20px;
-    text-align: center;
-    color: #000;
+    color: #7750aa;
 }
 .weather-forecast-date{
     font-size: 16px;
@@ -87,12 +87,6 @@ main {
 }
 .weather-forecast-temperatures{
     font-size: 13px;
-}
-.weather-forecast-temp-max{
-
-}
-.weather-forecast-temp-min{
-    opacity: 0.5;
 }
 footer {
     border-top: 1px solid #f9f7fe;
