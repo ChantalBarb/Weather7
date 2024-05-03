@@ -80,18 +80,20 @@ main {
     color: #7750aa;
 }
 .weather-forecast-date{
-    font-size: 16px;
+    font-size: 18px;
     text-align: center;
     line-height: 20px;
     margin-bottom:10px
 }
 .weather-forecast-icon{
-    font-size: 30px;
-    text-align: center;
+    width: 88px;
+    height: 88px;
+    display: block;
+    margin: 0 auto;
 }
 .weather-forecast-temperatures{
     display: flex;
-    font-size: 14px;
+    font-size: 16px;
     margin-top: 10px;
     justify-content: center;
 }
